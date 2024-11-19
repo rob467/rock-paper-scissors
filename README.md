@@ -1,3 +1,3 @@
-Console Rock Paper Scissors Game
+Javascript Rock Paper Scissors Game
 
-A basic console rock paper scissors game that can be played for a specified number of rounds.
+A basic interactive javascript rock paper scissors game that can be played until the player or computer reaches a score of 5.
